@@ -1,0 +1,15 @@
+C:\Users\89132\source\repos\УЛПР6\УЛПР6\bin\Debug\net6.0\УЛПР6.exe
+C:\Users\89132\source\repos\УЛПР6\УЛПР6\bin\Debug\net6.0\УЛПР6.deps.json
+C:\Users\89132\source\repos\УЛПР6\УЛПР6\bin\Debug\net6.0\УЛПР6.runtimeconfig.json
+C:\Users\89132\source\repos\УЛПР6\УЛПР6\bin\Debug\net6.0\УЛПР6.dll
+C:\Users\89132\source\repos\УЛПР6\УЛПР6\bin\Debug\net6.0\УЛПР6.pdb
+C:\Users\89132\source\repos\УЛПР6\УЛПР6\obj\Debug\net6.0\УЛПР6.csproj.AssemblyReference.cache
+C:\Users\89132\source\repos\УЛПР6\УЛПР6\obj\Debug\net6.0\УЛПР6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\89132\source\repos\УЛПР6\УЛПР6\obj\Debug\net6.0\УЛПР6.AssemblyInfoInputs.cache
+C:\Users\89132\source\repos\УЛПР6\УЛПР6\obj\Debug\net6.0\УЛПР6.AssemblyInfo.cs
+C:\Users\89132\source\repos\УЛПР6\УЛПР6\obj\Debug\net6.0\УЛПР6.csproj.CoreCompileInputs.cache
+C:\Users\89132\source\repos\УЛПР6\УЛПР6\obj\Debug\net6.0\УЛПР6.dll
+C:\Users\89132\source\repos\УЛПР6\УЛПР6\obj\Debug\net6.0\refint\УЛПР6.dll
+C:\Users\89132\source\repos\УЛПР6\УЛПР6\obj\Debug\net6.0\УЛПР6.pdb
+C:\Users\89132\source\repos\УЛПР6\УЛПР6\obj\Debug\net6.0\УЛПР6.genruntimeconfig.cache
+C:\Users\89132\source\repos\УЛПР6\УЛПР6\obj\Debug\net6.0\ref\УЛПР6.dll
